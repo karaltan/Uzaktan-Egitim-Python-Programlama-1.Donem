@@ -1,0 +1,7 @@
+#birim_fiyat=input('birim fiyatı gırınız:')
+
+#kullanılan=input('kullanılan miktarı gırınız:')
+
+#fiyat=int(birim_fiyat)*(float(kullanılan))
+
+#print('fiyat:{0}'.format(fiyat))

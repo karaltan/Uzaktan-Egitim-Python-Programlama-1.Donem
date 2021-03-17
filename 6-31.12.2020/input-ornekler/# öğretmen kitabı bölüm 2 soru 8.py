@@ -1,0 +1,1 @@
+# öğretmen kitabı bölüm 2 sonu sorulardan 8.sini siz yapınız

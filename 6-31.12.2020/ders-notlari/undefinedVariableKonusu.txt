@@ -1,0 +1,13 @@
+undefined variable hatası:
+
+define = tanımlamak
+
+define-d = tanımlanmış
+
+un-define-d = olumsuzluk eki
+
+undefined=tanımlanmamış
+
+variable=değişken
+
+-> undefined variable=tanımlanmamış değişken
