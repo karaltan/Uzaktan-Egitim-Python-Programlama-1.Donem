@@ -1,0 +1,6 @@
+büyükten küçüğe sıralamak:
+
+liste=a,k,l,c,d,z olsun
+
+sort->a,c,d,k,l,z küçükten büyüğe sıraladı
+reverse->z,l,k,d,c,a tersine döndürdü, böylece büyükten küçüğe sıralanmış oldu
