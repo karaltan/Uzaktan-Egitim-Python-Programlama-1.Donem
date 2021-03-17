@@ -1,0 +1,21 @@
+DEĞİŞKENLER
+
+KARAKTER DİZİSİ/KATAR/METİN
+sayi=9
+
+"altan" string
+
+altan -> altan değişkeninin değeri ne?
+
+sayi -> 9
+
+"ALTAN35KARAALP1981" -> METİNSEL
+
+SAYILAR
+
+98
+4.5
+45.66
+4
+"98" -> EKRANA 98 YAZAR, ARİTMETİK İŞLEM YAPAMAZSIN
+
